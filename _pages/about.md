@@ -9,17 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room L5.24, LAB42,</p>
+    <p>Amsterdam, Science Park</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is just a test. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an assistant professor for Explainable AI in Finance at University of Amsterdam, as part of Socially Intelligent Artificial Systems (SIAS) at the informatics institute (IvI), and the Cognition, Language and Computation (CLC) lab at Institute of Logic, Language and Computation (ILLC).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focus is on Neuro-Symbolic AI architectures (combining machine learning models with symbolic approaches --may it be logical or causal),to extend their capacity in reasoning and explainability and use these approaches to address problems in the domain of financial services.
