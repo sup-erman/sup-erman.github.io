@@ -1,0 +1,74 @@
+"KR":
+  url: https://kr.org
+  color: "#00369f"
+"AAAI":
+  url: https://aaai.org
+  color: "#00369f"
+
+"IJCAI":
+  url: https://www.ijcai.org
+  color: "#00369f"
+
+"AAMAS":
+  url: https://www.ifaamas.org
+  color: "#00369f"
+
+"AIJ":
+  url: https://aij.ijcai.org
+
+"K-CAP":
+  url: https://www.k-cap.org
+  color: "#00369f"
+  
+"ADT":
+  url: http://www.wikicfp.com/cfp/program?id=69
+  color: "#00369f"
+
+"CVPR":
+  url: https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
+  color: "#00369f"
+
+"AIcomJ":
+  url: https://www.aicommunications.eu
+    
+"DL":
+  url: https://dl.kr.org/workshops/
+  color: "#286d05"
+  
+"ISJ":
+  url: https://www.sciencedirect.com/journal/information-sciences
+    
+"ArXiv":
+  url: https://arxiv.org
+  color: "#286d05"
+
+"KR4HI":
+  url: https://sites.google.com/view/kr4hi/home
+  color: "#286d05"
+  
+"STAIRS":
+  url: http://ecai2020.eu/stairs/
+  color: "#00369f"
+  
+"SEMANTICS":
+  url: "https://2022-eu.semantics.cc/conference"
+  color: "#00369f"
+  
+"PRUV":
+  url: http://pruv18.inf.unibz.it 
+  color: "#286d05"
+
+  
+"IfCoLog":
+  url: https://collegepublications.co.uk/ifcolog/
+  
+"HHAI":
+  url: https://www.hhai-conference.org
+  color: "#00369f"
+  
+"ESWC":
+  url: https://www.eswc-conferences.org
+  color: "#00369f"
+
+"Doktorarbeit":
+  color: "#000000"
