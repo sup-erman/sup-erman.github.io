@@ -1,80 +1,49 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Hybrid-Intelligence
+description: Augmenting Human Intellect 
+img: assets/img/hybrid-intelligence3.png
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Hybrid Intelligence (HI) is the term standing for the combination of human and machine intelligence, aiming at *extending human intellect instead of replacing it*. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The HI project is a large-scale 10 years gravity (zwaartekracht) project  with a collaboration of top AI researchers from the VU Amsterdam, the University of Amsterdam, the TU Delft, and the Universities of Groningen, Leiden, and Utrecht, linking areas such as machine learning, knowledge representation, natural language understanding & generation, information retrieval, multi-agent systems,  psychology, multimodal interaction, social robotics, AI & law and ethics of technology. You can find more information about it [here](https://www.hybrid-intelligence-centre.nl).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-3">
+        {% include figure.html path="assets/img/T017BJJAPUK-U018EFALPLG-5ba85c4ce61b-512.jpeg" title="HI banner and me" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Screenshot 2023-01-05 at 15.26.38.png" title="HI Consortium" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+On the left, me with the Hybrid Intelligence banner at VU, on the right Hybrid Intelligence consortium meeting at Hoofddorp.</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+
+PhD Students that I supervise in the Hybrid Intelligence project:
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-2">
+        {% include figure.html path="assets/img/Nicole.png" title="Nicole" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/andreas.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+<div class="caption">Nicole Orzan (left) co-supervised by Davide Grossi (RUG/ILLC) and Eliseo Ferante (VU), Andreas Sauter (right) co-supervised by Frank van Harmelen (VU) and Aske Plaat (LU), and their projects below respectively.
+</div>
+
+- **Communication and Background Knowledge in Multi-Agent Systems** [Nicole Orzan](https://research.rug.nl/en/persons/nicole-orzan) <br />  (*keywords: Neurosymbolic AI, Multiagent Systems, Reinforcement Learning*)
+-  **Causal Reinforcement Learning and Reasoning** [Andreas Sauter](http://sauter.at) <br /> (*keywords: Neuro-Symbolic AI, Causality, Reinforcement Learning*)
+
+
+### Preprints and Publications
+
+-[**Learning to Cooperate with Human Evaluative Feedback and Demonstrations**](https://ebooks.iospress.nl/volumearticle/60857), Mehul Verma and Erman Acar, HHAI 2022
+
+-[**A Meta-Reinforcement Learning Algorithm for Causal Discovery**](https://arxiv.org/pdf/2207.08457.pdf), Andreas Sauter, Erman Acar and Vincent François-Lavet, 2022
