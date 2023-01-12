@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI4Fintech
-description: AI4Fintech hub is a UvA initiative, aiming to bring people from both academia and industry for AI solutions in financial services. 
+description: AI4Fintech hub is a UvA initiative, aiming to bring people from both academia and industry together for AI solutions in financial services. 
 img: assets/img/Screenshot 2023-01-05 at 11.53.34.png
 importance: 3
 category: work
