@@ -9,7 +9,7 @@ nav_order: 5
 
 **Current Courses**
 
-- **Interpretable Machine Learning** 2023 (upcoming), Master of AI, University of Amsterdam (together with Jelle Zuidema)
+- **[Interpretability & Explainability in AI](https://studiegids.uva.nl/xmlpages/page/2022-2023-en/search-course/course/99127)** June 2023 (upcoming), Master of AI, University of Amsterdam (together with Jelle Zuidema)
 - **[Applied Forecasting in Complex Systems](https://datanose.nl/Course/Manual/110263/Applied%20Forecasting%20in%20Complex%20Systems/2022)** 2022, Master of Data Science, University of Amsterdam
 
 **Previous Courses**
