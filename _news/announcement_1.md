@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-12-30 15:59:00-0400
+date: 2026-01-15 12:00:00+0100
 inline: true
 ---
 
-
-A [PhD position available](https://vacatures.uva.nl/UvA/job/PhD-Position-in-Explainable-AI-in-Finance/761750602/) on XAI in Finance with a focus on neuro-symbolic approaches. Deadline: February 15. The selected candidate will be a part of SIAS group (IvI), CLC Lab (ILLC) and the upcoming AI4Fintech hub in Amsterdam.
+Paper accepted at **CVPR 2026**: *Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs*.

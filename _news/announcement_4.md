@@ -1,8 +1,6 @@
----
 layout: post
-date: 2023-1-09 15:49:00-0400
+date: 2024-01-23 12:00:00+0100
 inline: true
 ---
 
-
- **Paper acceptance** A Meta-Reinforcement Learning Algorithm for Causal Discovery, by Andreas Sauter, myself, and Vincent François-Lavet is accepted for the Conference on Causal Learning and Reasoning (CleaR 2023). 
+Paper accepted at **AAMAS 2024**: *CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement Learning*.

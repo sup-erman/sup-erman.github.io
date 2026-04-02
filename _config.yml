@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -69,8 +69,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username:  erman_ai
-mastodon_username: sigmoid.social/@erman_acar
+twitter_username:
+mastodon_username:
 linkedin_username: erman-acar
 telegram_username: # your Telegram user name
 scholar_userid: 6p38Z0AAAAAJ

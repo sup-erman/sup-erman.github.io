@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022/10/06 15:59:00-0400
+date: 2025-07-01 12:00:00+0200
 inline: true
 ---
 
-
-A4Fintech Initiative is coming! Stay Tune!
+Paper accepted at **ICML 2025**: *AI for Global Climate Cooperation: Modeling Global Climate Negotiations, Agreements, and Long-Term Cooperation in RICE-N*.
