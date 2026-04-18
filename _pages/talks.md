@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-The following is an incomplete list of talks, I had given in the past.
+The following is an incomplete list of invited talks and guest lectures I had given in the past.
 
 | Date | Title | Venue | Context |
 | --- | --- | --- | --- |
