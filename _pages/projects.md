@@ -201,7 +201,7 @@ nav_order: 2
   <section class="team-member">
     <img class="team-photo" src="/assets/img/Nicole.png" alt="Nicole Orzan">
     <div>
-      <h3><a href="https://research.rug.nl/en/publications/cooperation-under-uncertain-incentive-alignment-a-multi-agent-rei/">Nicole Orzan (RUG)</a></h3>
+      <h3><a href="https://research.rug.nl/en/publications/cooperation-under-uncertain-incentive-alignment-a-multi-agent-rei/">Dr. Nicole Orzan (RUG)</a></h3>
       <p class="team-thesis">Cooperation Under Uncertain Incentive Alignment: A Multi-Agent Reinforcement Learning Perspective</p>
       <p class="team-meta"><strong>Co-supervised with:</strong> Davide Grossi (RUG), Roxana Radulescu (UU)</p>
       <p class="team-meta"><strong>Focus:</strong> multi-agent reinforcement learning, cooperation, uncertain incentive alignment</p>
@@ -211,7 +211,7 @@ nav_order: 2
   <section class="team-member">
     <img class="team-photo" src="/assets/img/renyan.png" alt="Renyan Feng" style="object-position: left center;">
     <div>
-      <h3>Renyan Feng (Guizhou University)</h3>
+      <h3>Dr. Renyan Feng (Guizhou University)</h3>
       <p class="team-thesis">Knowledge Forgetting in Computation Tree Logic</p>
       <p class="team-meta"><strong>Co-supervised with:</strong> Yisong Wang (Guizhou University, China)</p>
       <p class="team-meta"><strong>Focus:</strong> computation tree logic, knowledge forgetting, logic-based reasoning</p>
