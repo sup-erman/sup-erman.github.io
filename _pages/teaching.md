@@ -4,7 +4,7 @@ permalink: /service/
 title: service
 description:
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Teaching
@@ -13,6 +13,7 @@ nav_order: 5
 | --- | --- | --- | --- |
 | Applied Forecasting for Complex Systems | 2025, 2024, 2023, 2022 | MSc. Information Systems, Data Science Track, Universiteit van Amsterdam | Coordinator |
 | Interpretability and Explainability in AI | 2025, 2024, 2023 | MSc. Artificial Intelligence, Universiteit van Amsterdam | Coordinator (2025); Lecturer (2024, 2023) |
+| Seminar Mathematical Logic (Logic & Learning) | 2026 | MSc. Logic | Co-coordinator |
 | Knowledge Representation and Reasoning | 2021, 2020, 2019 | MSc. Artificial Intelligence, Vrije Universiteit Amsterdam | Lecturer |
 | Ethical Challenges in Hybrid-Intelligence | 2021 | MSc. Artificial Intelligence, Vrije Universiteit Amsterdam | Coordinator |
 | Integrating Learning and Reasoning | 2021 | Hybrid Intelligence SIKS/PhD Course, Vrije Universiteit Amsterdam | Lecturer |
