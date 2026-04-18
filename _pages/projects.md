@@ -117,9 +117,9 @@ nav_order: 2
   <section class="team-member">
     <img class="team-photo" src="/assets/img/andreas.png" alt="Andreas Sauter">
     <div>
-      <h3><a href="https://sauter.at/">Andreas Sauter</a></h3>
+      <h3><a href="https://sauter.at/">Andreas Sauter (VU)</a></h3>
       <p class="team-thesis">Causal Reinforcement Learning and Discovery</p>
-      <p class="team-meta"><strong>Co-supervised with:</strong> Frank van Harmelen, Aske Plaat</p>
+      <p class="team-meta"><strong>Co-supervised with:</strong> Frank van Harmelen (VU), Aske Plaat (Uni. Leiden)</p>
       <p class="team-meta"><strong>Focus:</strong> causality, reinforcement learning, neuro-symbolic AI</p>
     </div>
   </section>
@@ -147,9 +147,9 @@ nav_order: 2
   <section class="team-member">
     <img class="team-photo" src="https://research.vu.nl/files-asset/436953126/Vrije_stijl_a89aypxk-min.jpg?f=jpg&w=160" alt="Johannes Bendler">
     <div>
-      <h3><a href="https://research.vu.nl/en/persons/johannes-bendler/">Johannes Bendler</a></h3>
+      <h3><a href="https://research.vu.nl/en/persons/johannes-bendler/">Johannes Bendler (VU)</a></h3>
       <p class="team-thesis">Categorizing neurosymbolic hybrid intelligence systems</p>
-      <p class="team-meta"><strong>Co-supervised with:</strong> Frank van Harmelen, Annette ten Teije</p>
+      <p class="team-meta"><strong>Co-supervised with:</strong> Frank van Harmelen (VU), Annette ten Teije (VU)</p>
       <p class="team-meta"><strong>Focus:</strong> neurosymbolic systems, category theory</p>
     </div>
   </section>
@@ -167,9 +167,9 @@ nav_order: 2
   <section class="team-member">
     <img class="team-photo" src="/assets/img/wozny.png" alt="Philip Wozny">
     <div>
-      <h3><a href="https://www.tilburguniversity.edu/staff/p-j-wozny?lan=en&amp;x=0">Philip Wozny</a></h3>
+      <h3><a href="https://www.tilburguniversity.edu/staff/p-j-wozny?lan=en&amp;x=0">Philip Wozny (VU)</a></h3>
       <p class="team-thesis">Multi-Agent Reinforcement Learning for Equitable and Sustainable Tax Policy Design</p>
-      <p class="team-meta"><strong>Co-supervised with:</strong> Albert Bomer</p>
+      <p class="team-meta"><strong>Co-supervised with:</strong> Albert Bomer (VU)</p>
       <p class="team-meta"><strong>Focus:</strong> multi-agent systems, reinforcement learning, taxation, climate policy</p>
     </div>
   </section>
@@ -191,6 +191,30 @@ nav_order: 2
       <p class="team-thesis">Neurosymbolic AI for Safety and Norms in Multi-Agent Reinforcement Learning</p>
       <p class="team-meta"><strong>Co-supervised with:</strong> Shihan Wang, Giovanni Sileno</p>
       <p class="team-meta"><strong>Focus:</strong> logic, AI safety, game theory, multi-agent reinforcement learning</p>
+    </div>
+  </section>
+</div>
+
+<h2 class="team-heading">Alumni</h2>
+
+<div class="team-page">
+  <section class="team-member">
+    <img class="team-photo" src="/assets/img/Nicole.png" alt="Nicole Orzan">
+    <div>
+      <h3><a href="https://research.rug.nl/en/publications/cooperation-under-uncertain-incentive-alignment-a-multi-agent-rei/">Nicole Orzan (RUG)</a></h3>
+      <p class="team-thesis">Cooperation Under Uncertain Incentive Alignment: A Multi-Agent Reinforcement Learning Perspective</p>
+      <p class="team-meta"><strong>Co-supervised with:</strong> Davide Grossi (RUG), Roxana Radulescu (UU)</p>
+      <p class="team-meta"><strong>Focus:</strong> multi-agent reinforcement learning, cooperation, uncertain incentive alignment</p>
+    </div>
+  </section>
+
+  <section class="team-member">
+    <img class="team-photo" src="/assets/img/renyan.png" alt="Renyan Feng" style="object-position: left center;">
+    <div>
+      <h3>Renyan Feng (Guizhou University)</h3>
+      <p class="team-thesis">Knowledge Forgetting in Computation Tree Logic</p>
+      <p class="team-meta"><strong>Co-supervised with:</strong> Yisong Wang (Guizhou University, China)</p>
+      <p class="team-meta"><strong>Focus:</strong> computation tree logic, knowledge forgetting, logic-based reasoning</p>
     </div>
   </section>
 </div>
