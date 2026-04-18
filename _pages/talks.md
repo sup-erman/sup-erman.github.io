@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description:
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 The following is an incomplete list of talks, I had given in the past.
