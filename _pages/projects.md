@@ -101,7 +101,7 @@ nav_order: 3
 </style>
 
 <p class="team-intro">I am blessed to work with, supervise and learn from the following individuals.</p>
-<h2 class="team-heading">PhD Students</h2>
+<h2 class="team-heading">Current PhD Students</h2>
 
 <div class="team-page">
   <section class="team-member">
