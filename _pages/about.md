@@ -23,4 +23,4 @@ I am also a founding member and co-manager of [AI4FinTech](https://www.uva.nl/en
 
 With over 15 years of experience in AI, my work spans symbolic reasoning, neuro-symbolic systems, causality, and multi-agent systems, with a particular interest in applications in financial services and fintech. My research focus is on combining machine learning with symbolic and causal methods to build AI systems that are more capable of reasoning, collaboration, and explanation.
 
-A mildly pretentious fun fact: I am an academic great-grandchild of Newton and Gauss, through Hilbert, Wittgenstein, and Russell.
+A pretentious fun fact is that I am one of the academic great-grandchildren of Newton and Gauss, through Hilbert, Wittgenstein, and Russell.
