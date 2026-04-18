@@ -22,3 +22,5 @@ I am an AI researcher with a background in logic and game theory, and a tenured 
 I am also a founding member and co-manager of [AI4FinTech](https://www.uva.nl/en/research/research-at-the-uva/artificial-intelligence/ai4fintech/ai-fin-tech-home.html) at the University of Amsterdam, and part of the management team of the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/), a large national collaboration across Dutch universities.
 
 With over 15 years of experience in AI, my work spans symbolic reasoning, neuro-symbolic systems, causality, and multi-agent systems, with a particular interest in applications in financial services and fintech. My research focus is on combining machine learning with symbolic and causal methods to build AI systems that are more capable of reasoning, collaboration, and explanation.
+
+A mildly pretentious fun fact: I am an academic great-grandchild of Newton and Gauss, through Hilbert, Wittgenstein, and Russell.
