@@ -2,7 +2,7 @@
 layout: page
 title: team
 permalink: /team/
-description: PhD students and current supervision topics.
+description: Team.
 nav: true
 nav_order: 2
 ---
@@ -14,10 +14,15 @@ nav_order: 2
     margin-top: 1.5rem;
   }
 
-  .team-note {
+  .team-intro {
     color: #555;
-    font-size: 0.95rem;
-    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .team-heading {
+    margin: 0 0 0.4rem;
+    font-size: 1.25rem;
   }
 
   .team-member {
@@ -95,18 +100,17 @@ nav_order: 2
   }
 </style>
 
-<div class="team-note">
-  Current PhD students, listed alphabetically by first name. Thesis titles are working titles, estimated from current publications where needed.
-</div>
+<p class="team-intro">I am blessed to work with, supervise and learn from the following individuals.</p>
+<h2 class="team-heading">PhD Students</h2>
 
 <div class="team-page">
   <section class="team-member">
-    <div class="team-placeholder" aria-label="Adia Lumadjeng">AL</div>
+    <img class="team-photo" src="https://static.wixstatic.com/media/48d6c1_04eba8eb5a8247c5bb079eda855ddaec~mv2.png/v1/fill/w_209,h_224,q_90,enc_avif,quality_auto/48d6c1_04eba8eb5a8247c5bb079eda855ddaec~mv2.png" alt="Adia Lumadjeng">
     <div>
-      <h3><a href="https://www.uva.nl/profiel/l/u/a.c.lumadjeng/a.c.lumadjeng.html">Adia Lumadjeng</a></h3>
-      <p class="team-thesis">Explainable Classification via Signomial Equation Learning</p>
+      <h3><a href="https://www.sias-uva.nl/people?pgid=lctdsrio2-2cae80e1-1d30-4cc7-b200-c380238892b4">Adia Lumadjeng</a></h3>
+      <p class="team-thesis">High-performance Structural Equation Learning for Finance</p>
       <p class="team-meta"><strong>Co-supervised with:</strong> Ilker Birbil</p>
-      <p class="team-meta"><strong>Focus:</strong> interpretable machine learning, symbolic regression, explainable classification</p>
+      <p class="team-meta"><strong>Focus:</strong> structural equation learning, finance, explainable machine learning</p>
     </div>
   </section>
 
@@ -136,7 +140,7 @@ nav_order: 2
       <h3>Arco van Breda</h3>
       <p class="team-thesis">Mechanistic Control for Tabular Transformers</p>
       <p class="team-meta"><strong>Co-supervised with:</strong> Saba Amiri, Ana Oprescu</p>
-      <p class="team-meta"><strong>Focus:</strong> symbolic regression, transformers, interpretability</p>
+      <p class="team-meta"><strong>Focus:</strong> mechanistic interpretability, transformers, neurosymbolic control</p>
     </div>
   </section>
 
@@ -144,16 +148,16 @@ nav_order: 2
     <img class="team-photo" src="https://research.vu.nl/files-asset/436953126/Vrije_stijl_a89aypxk-min.jpg?f=jpg&w=160" alt="Johannes Bendler">
     <div>
       <h3><a href="https://research.vu.nl/en/persons/johannes-bendler/">Johannes Bendler</a></h3>
-      <p class="team-thesis">Language Technologies for Conversational Assessment</p>
-      <p class="team-meta"><strong>Co-supervised with:</strong> Frank van Harmelen</p>
-      <p class="team-meta"><strong>Focus:</strong> large language models, educational assessment, conversational AI</p>
+      <p class="team-thesis">Categorizing neurosymbolic hybrid intelligence systems</p>
+      <p class="team-meta"><strong>Co-supervised with:</strong> Frank van Harmelen, Annette ten Teije</p>
+      <p class="team-meta"><strong>Focus:</strong> neurosymbolic systems, category theory</p>
     </div>
   </section>
 
   <section class="team-member">
-    <div class="team-placeholder" aria-label="Mayesha Tasnim">MT</div>
+    <img class="team-photo" src="https://static.wixstatic.com/media/e6443c_219970a2bba648cb8a897d26e3fe9795~mv2.jpg/v1/fill/w_378,h_364,q_90,enc_avif,quality_auto/e6443c_219970a2bba648cb8a897d26e3fe9795~mv2.jpg" alt="Mayesha Tasnim">
     <div>
-      <h3>Mayesha Tasnim</h3>
+      <h3><a href="https://www.sias-uva.nl/people?pgid=lctdsrio2-d3fc9559-bdee-4306-bcc8-f8560acc0c51">Mayesha Tasnim</a></h3>
       <p class="team-thesis">Multi-Agent Learning for Fair and Transparent School Choice</p>
       <p class="team-meta"><strong>Co-supervised with:</strong> Sennay Ghebreab</p>
       <p class="team-meta"><strong>Focus:</strong> civic AI, matching mechanisms, strategic behavior, responsible AI</p>
