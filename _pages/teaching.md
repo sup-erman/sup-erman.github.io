@@ -27,5 +27,5 @@ nav_order: 5
 | --- | --- |
 | Editorial Board | Journal of Frontiers in Computer Science - Theoretical Computer Science |
 | Senior PC | IJCAI 2021 |
-| PC | ICML 2026, ICLR 2026, NeurIPS 2025, ICML 2025, ICLR 2025, xAI 2025, ICAIF 2025, ECAI 2024, KR 2024, IJCAI 2024, xAI 2024, ICLR 2024, AAMAS 2023, NeurIPS 2023, KR 2023, NesyMAS 2023, IJCAI 2023, ECAI 2023, AAAI 2023, DeclarativeAI 2023, IJCAI 2022, AAAI 2022, HHAI 2022, AiML 2022, ALA 2022, IJCAI 2021, AAAI 2021, AAMAS 2021, IJCAI 2020, AAAI 2020, EPIA 2020, IJCAI 2019, CREOL 2017 |
+| PC | AAAI 2023, 2022, 2021, 2020; AAMAS 2023, 2021; AiML 2022; ALA 2022; CREOL 2017; DeclarativeAI 2023; ECAI 2024, 2023; EPIA 2020; HHAI 2026, 2025, 2024, 2023, 2022; ICAIF 2025; ICML 2026, 2025; ICLR 2026, 2025, 2024; IJCAI 2024, 2023, 2022, 2021, 2020, 2019; KR 2024, 2023; NesyMAS 2023; NeurIPS 2025, 2024, 2023; xAI 2025, 2024 |
 | Occasionally | Journal of Artificial Intelligence Research, Journal of Theoretical Computer Science, Financial Reviews Letter, The Review of Symbolic Logic, Internet Encyclopaedia of Philosophy, Neurosymbolic AI Journal |
