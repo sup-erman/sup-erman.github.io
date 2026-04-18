@@ -2,7 +2,7 @@
 layout: page
 title: team
 permalink: /team/
-description: Team.
+description:
 nav: true
 nav_order: 2
 ---
@@ -135,7 +135,7 @@ nav_order: 2
   </section>
 
   <section class="team-member">
-    <div class="team-placeholder" aria-label="Arco van Breda">AB</div>
+    <img class="team-photo" src="/assets/img/arco.png" alt="Arco van Breda">
     <div>
       <h3>Arco van Breda</h3>
       <p class="team-thesis">Mechanistic Control for Tabular Transformers</p>
@@ -175,7 +175,7 @@ nav_order: 2
   </section>
 
   <section class="team-member">
-    <div class="team-placeholder" aria-label="Raj Bhalwankar">RB</div>
+    <img class="team-photo" src="/assets/img/raj.png" alt="Raj Bhalwankar">
     <div>
       <h3>Raj Bhalwankar</h3>
       <p class="team-thesis">Reasoning in Tabular Foundation Models</p>
