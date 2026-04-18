@@ -18,10 +18,14 @@ nav_order: 5
 | Integrating Learning and Reasoning | 2021 | Hybrid Intelligence SIKS/PhD Course, Vrije Universiteit Amsterdam | Lecturer |
 | Philosophy of Ethics in Business | 2021 | MBA/Economics, Vrije Universiteit Amsterdam | Tutor |
 | Combining Symbolic and Statistical Approaches | 2020, 2019, 2018 | MSc. Artificial Intelligence, Universiteit van Amsterdam / Vrije Universiteit Amsterdam | Lecturer |
+| SIKS PhD School on Reinforcement Learning for Adaptive Hybrid Intelligence | 2025 | SIKS PhD School | Co-organiser |
+| SIKS PhD Course on Reinforcement Learning for Adaptive Hybrid Intelligence | 2023 | SIKS PhD Course | Co-organiser |
 
-## Service
+## Review
 
-| Activity | Date | Role |
-| --- | --- | --- |
-| SIKS PhD Research School on Reinforcement Learning for Adaptive Hybrid Intelligence 2025 | October 2025 | Co-organiser |
-| SIKS PhD Course on Reinforcement Learning for Adaptive Hybrid Intelligence 2023 | September 2023 | Co-organiser |
+| Role | Venue / Activity |
+| --- | --- |
+| Editorial Board | Journal of Frontiers in Computer Science - Theoretical Computer Science |
+| Senior PC | IJCAI 2021 |
+| PC | ICML 2026, ICLR 2026, NeurIPS 2025, ICML 2025, ICLR 2025, xAI 2025, ICAIF 2025, ECAI 2024, KR 2024, IJCAI 2024, xAI 2024, ICLR 2024, AAMAS 2023, NeurIPS 2023, KR 2023, NesyMAS 2023, IJCAI 2023, ECAI 2023, AAAI 2023, DeclarativeAI 2023, IJCAI 2022, AAAI 2022, HHAI 2022, AiML 2022, ALA 2022, IJCAI 2021, AAAI 2021, AAMAS 2021, IJCAI 2020, AAAI 2020, EPIA 2020, IJCAI 2019, CREOL 2017 |
+| Occasionally | Journal of Artificial Intelligence Research, Journal of Theoretical Computer Science, Financial Reviews Letter, The Review of Symbolic Logic, Internet Encyclopaedia of Philosophy, Neurosymbolic AI Journal |
