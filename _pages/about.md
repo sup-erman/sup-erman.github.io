@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor (tenured) of Safe & Explainable AI in Finance at the University of Amsterdam, where I lead [Finesse Lab](https://finesse-lab.github.io/), which is part of the [SIAS](https://www.sias-uva.nl) group.
+I am a tenured assistant professor of Safe & Explainable AI in Finance at the University of Amsterdam, where I lead [Finesse Lab](https://finesse-lab.github.io/), which is part of the [SIAS](https://www.sias-uva.nl) group.
 
 I am affiliated with both the [Informatics Institute](https://ivi.uva.nl) and the [Institute of Logic, Language and Computation](https://www.illc.uva.nl), where I am part of the research units [NLP](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) and [Theoretical Computer Science](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS).
 
