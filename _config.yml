@@ -184,6 +184,7 @@ exclude:
   - bin
   - Gemfile
   - Gemfile.lock
+  - finesse-lab.github.io
   - vendor
 keep_files:
   - CNAME
