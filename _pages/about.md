@@ -21,7 +21,7 @@ I am a tenured assistant professor of Safe and Explainable AI in Finance at the 
 
 I am part of the [Socially Intelligent Artificial Systems](https://www.sias-uva.nl) (SIAS) group, where I lead [Finesse Lab](https://finesse-lab.github.io/), focused on finance-inspired neurosymbolic systems for safety and explainability.
 
-At ILLC, I am affiliated with the research units [NLP and Digital Humanities](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) and [Theoretical Computer Science](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS).
+At ILLC, I am affiliated with the research units [Natural Language Processing](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) and [Theoretical Computer Science](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS).
 
 I am also a founding member and co-manager of [AI4FinTech](https://www.uva.nl/en/research/research-at-the-uva/artificial-intelligence/ai4fintech/ai-fin-tech-home.html) at the University of Amsterdam, and part of the management team of the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/), a large national research project across Dutch universities with more than 80 PhD students.
 
