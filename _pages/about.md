@@ -17,13 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a tenured assistant professor of Safe and Explainable AI in Finance at the [Institute of Logic, Language and Computation](https://www.illc.uva.nl) (ILLC) and the [Informatics Institute](https://ivi.uva.nl) (IvI) at the University of Amsterdam.
+I am an assistant professor (tenured) of Safe & Explainable AI in Finance at the University of Amsterdam, where I lead [Finesse Lab](https://finesse-lab.github.io/), which is part of the [SIAS](https://www.sias-uva.nl) group.
 
-I am part of the [Socially Intelligent Artificial Systems](https://www.sias-uva.nl) (SIAS) group, where I lead [Finesse Lab](https://finesse-lab.github.io/), focused on finance-inspired neurosymbolic systems for safety and explainability.
+I am affiliated with both the [Informatics Institute](https://ivi.uva.nl) and the [Institute of Logic, Language and Computation](https://www.illc.uva.nl), where I am part of the research units [NLP](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) and [Theoretical Computer Science](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS).
 
-At ILLC, I am affiliated with the research units [Natural Language Processing](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) and [Theoretical Computer Science](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS).
-
-I am also a founding member and co-manager of [AI4FinTech](https://www.uva.nl/en/research/research-at-the-uva/artificial-intelligence/ai4fintech/ai-fin-tech-home.html) at the University of Amsterdam, and part of the management team of the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/), a large national research project across Dutch universities with more than 80 PhD students.
+I am also a founding member and co-manager of the [AI4FinTech initiative](https://amsterdamai.com/communities/ai4fintech/), and part of the management team of the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/), a large national research project across Dutch universities with more than 80 PhD students.
 
 With over 15 years of experience in AI, my work spans symbolic reasoning, [neurosymbolic systems](https://en.wikipedia.org/wiki/Neuro-symbolic_AI), [causality](https://en.wikipedia.org/wiki/Causality), and [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_system), with a particular interest in [explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) in finance and broader applications in financial services and fintech. My research focus is on combining machine learning with symbolic and causal methods to build AI systems that are more capable of [reasoning](https://en.wikipedia.org/wiki/Reasoning), [collaboration](https://en.wikipedia.org/wiki/Collaboration), and [explanation](https://en.wikipedia.org/wiki/Explanation).
 
